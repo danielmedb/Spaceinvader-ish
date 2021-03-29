@@ -1,0 +1,15 @@
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/bin/Debug/net5.0/Spaceinvader-ish.deps.json
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/bin/Debug/net5.0/Spaceinvader-ish.runtimeconfig.json
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/bin/Debug/net5.0/Spaceinvader-ish.runtimeconfig.dev.json
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/bin/Debug/net5.0/Spaceinvader-ish.dll
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/bin/Debug/net5.0/ref/Spaceinvader-ish.dll
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/bin/Debug/net5.0/Spaceinvader-ish.pdb
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.csprojAssemblyReference.cache
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.AssemblyInfoInputs.cache
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.AssemblyInfo.cs
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.csproj.CoreCompileInputs.cache
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.dll
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/ref/Spaceinvader-ish.dll
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.pdb
+/Users/daniel/RiderProjects/Spaceinvader-ish/Spaceinvader-ish/obj/Debug/net5.0/Spaceinvader-ish.genruntimeconfig.cache
